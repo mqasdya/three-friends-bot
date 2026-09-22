@@ -9,7 +9,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
         "سلام کصکشا\n"
         "من کیر خور شما هستم.\n\n"
-        "🍆"
+        
     )
 
 
